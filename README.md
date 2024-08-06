@@ -1,10 +1,10 @@
 # About Me
 
 - 삼성 청년 SW 아카데미 (2023.07 ~ 2024.06)
-  - 1학기 관통 프로젝트 [**ONE-SHOT**](./##ONE-SHOT)
-  - 2학기 공통 프로젝트 [**Repertory**]()
-  - 2학기 특화 프로젝트 [**NoColored**]()
-  - 2학기 자율 프로젝트 [**CAMUS**]()
+  - 1학기 관통 프로젝트 [**ONE-SHOT**](#ONE-SHOT)
+  - 2학기 공통 프로젝트 [**Repertory**](#Repertory)
+  - 2학기 특화 프로젝트 [**NoColored**](#NoColored)
+  - 2학기 자율 프로젝트 [**CAMUS**](#CAMUS)
 
 
 - 42Seoul (2023.02 ~)
@@ -12,7 +12,7 @@
 
 # Projects
 
-## Nocolored
+## NoColored
 
 [![repository](https://img.shields.io/badge/GitHub-Frontend-61DAFB?style=flat&logo=GitHub&logoColor=white)](https://github.com/NoColored/NoColored-fe)
 [![repository](https://img.shields.io/badge/GitHub-Backend-6DB33F?style=flat&logo=GitHub&logoColor=white)](https://github.com/NoColored/NoColored-be)

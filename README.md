@@ -40,10 +40,10 @@
 <details id="CAMUS">
    <summary>
       <b>CAMUS</b><br>
-      <a href="https://github.com/NoColored/NoColored-fe">
+      <a href="https://github.com/Camus-chat/frontend">
          <img src="https://img.shields.io/badge/repository-FrontEnd-blue?style=flat&logo=GitHub&logoColor=white">
       </a>
-      <a href="https://github.com/NoColored/NoColored-be">
+      <a href="https://github.com/Camus-chat/backend">
          <img src="https://img.shields.io/badge/repository-BackEnd-green?style=flat&logo=GitHub&logoColor=white">
       </a>
    </summary>

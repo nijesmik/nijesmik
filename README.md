@@ -23,7 +23,7 @@
          <li> 역할 : 기획 및 디자인, FrontEnd </li>
          <li>
             FrontEnd<br>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=gray" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
             <a href="https://vanilla-extract.style/">
                <img src="https://img.shields.io/badge/Vanilla%20Extract%20CSS-F887AD?style=flat" />
@@ -33,7 +33,7 @@
                <img src="https://img.shields.io/badge/Phaser%203-9C6394?style=flat" />
             </a>
          </li>
-         <li>[SSAFY] 2학기 특화 프로젝트 우수팀(1등) 수상 🥇</li>
+         <li>SSAFY 2학기 특화 프로젝트 우수팀(1등) 수상 🥇</li>
       </ul>
    </p>
 </details>
@@ -58,13 +58,16 @@
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
             <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white" />
-            <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />
-            <a href="https://newdocs.phaser.io/">
-               <img src="https://img.shields.io/badge/Phaser%203-9C6394?style=flat" />
+            <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />  
+            <a href="https://stomp-js.github.io">
+               <img src="https://img.shields.io/badge/STOMP.js-4e91a5?style=flat">
             </a>
          </li>
          <li>
             DevOps<br>
+            <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
          </li>
       </ul>
    </p>
@@ -109,7 +112,7 @@
          <li>
             BackEnd<br>
          </li>
-         <li>[SSAFY] 1학기 관통 프로젝트 최우수팀(1등) 수상 🥇</li>
+         <li>SSAFY 1학기 관통 프로젝트 최우수팀(1등) 수상 🥇</li>
       </ul>
    </p>
 </details>

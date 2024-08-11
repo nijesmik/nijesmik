@@ -8,12 +8,10 @@
 <details id="NoColored">
    <summary>
       <b>NoColored 🏆</b><br>
-      <a href="https://github.com/NoColored/NoColored-fe">
-         <img src="https://img.shields.io/badge/repository-FrontEnd-blue?style=flat&logo=GitHub&logoColor=white" />
+      <a href="https://github.com/NoColored">
+         <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white" />
       </a>
-      <a href="https://github.com/NoColored/NoColored-be">
-         <img src="https://img.shields.io/badge/repository-BackEnd-green?style=flat&logo=GitHub&logoColor=white" />
-      </a>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
    </summary>
    <p>
       <div>🕹️ 숨바꼭질을 기반으로한 2~4인 경쟁 WEB 게임</div>
@@ -40,12 +38,11 @@
 <details id="CAMUS">
    <summary>
       <b>CAMUS</b><br>
-      <a href="https://github.com/Camus-chat/frontend">
-         <img src="https://img.shields.io/badge/repository-FrontEnd-blue?style=flat&logo=GitHub&logoColor=white">
+      <a href="https://github.com/Camus-chat">
+         <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white">
       </a>
-      <a href="https://github.com/Camus-chat/backend">
-         <img src="https://img.shields.io/badge/repository-BackEnd-green?style=flat&logo=GitHub&logoColor=white">
-      </a>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
    </summary>
    <p>
       <div>💬 AI 텍스트 분석을 활용한 채팅 솔루션</div>
@@ -75,34 +72,14 @@
       </ul>
    </p>
 </details>
-<details id="Repertory">
-   <summary>
-      <b>Repertory</b><br>
-      <a href="https://github.com/Team-Repertory/Repertory">
-         <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white">
-      </a>
-   </summary>
-   <p>
-      <div>🤸 브레이킹 댄서들의 온라인 레파토리 수첩</div>
-      <ul>
-         <li>기간 : 2024.01.08 ~ 2024.02.16 (6주)</li>
-         <li>인원 : 4명 (프론트엔드 2명, 백엔드 2명)</li>
-         <li>역할 : 기획 및 디자인, FrontEnd</li>
-         <li>
-            FrontEnd<br>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-            <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
-         </li>
-      </ul>
-   </p>
-</details>
 <details id="ONE-SHOT">
    <summary>
       <b>ONE-SHOT 🏆</b><br>
       <a href="https://github.com/nijesmik/ONE-SHOT">
          <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white">
       </a>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
    </summary>
    <p>
       <div>☕️ 커피 단체 주문 공유 플랫폼</div>
@@ -124,6 +101,29 @@
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
          </li>
          <li>SSAFY 1학기 관통 프로젝트 최우수팀(1등) 수상 🥇</li>
+      </ul>
+   </p>
+</details>
+<details id="Repertory">
+   <summary>
+      <b>Repertory</b><br>
+      <a href="https://github.com/Team-Repertory/Repertory">
+         <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white">
+      </a>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+   </summary>
+   <p>
+      <div>🤸 브레이킹 댄서들의 온라인 레파토리 수첩</div>
+      <ul>
+         <li>기간 : 2024.01.08 ~ 2024.02.16 (6주)</li>
+         <li>인원 : 4명 (프론트엔드 2명, 백엔드 2명)</li>
+         <li>역할 : 기획 및 디자인, FrontEnd</li>
+         <li>
+            FrontEnd<br>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+            <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+         </li>
       </ul>
    </p>
 </details>

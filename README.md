@@ -5,6 +5,11 @@
    <li>아주대학교 금융공학과 <sub>2014.03 ~ 2023.02</sub></li>
 </ul>
 <h2>🧑‍💻 Projects</h2>
+
+> [!note]
+> 각 프로젝트에 대한 개요를 펼쳐볼 수 있습니다 📖 <br>
+> `repository` 아이콘을 클릭하면 해당 레포지토리로 이동합니다
+
 <details id="NoColored">
    <summary>
       <b>NoColored 🏆</b><br>
@@ -16,20 +21,31 @@
    <p>
       <div>🕹️ 숨바꼭질을 기반으로한 2~4인 경쟁 WEB 게임</div>
       <ul>
-         <li> 기간 : 2024.02.19 ~ 2024.04.04 (7주) </li>
-         <li> 인원 : 6명 (프론트엔드 4명, 백엔드 2명) </li>
-         <li> 역할 : 기획 및 디자인, FrontEnd </li>
-         <li>
-            FrontEnd<br>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-            <a href="https://vanilla-extract.style/">
-               <img src="https://img.shields.io/badge/Vanilla%20Extract%20CSS-F887AD?style=flat" />
-            </a>
-            <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />
-            <a href="https://newdocs.phaser.io/">
-               <img src="https://img.shields.io/badge/Phaser%203-9C6394?style=flat" />
-            </a>
+         <li> 기간: 2024.02.19 ~ 2024.04.04 (7주) </li>
+         <li> 인원: 6명 (프론트엔드 4명, 백엔드 2명) </li>
+         <li> 역할:
+            <ul>
+               <li>
+                  기획 및 디자인<br>
+                  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black" />
+                  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+               </li>
+               <li>
+                  FrontEnd<br>
+                  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+                  <img
+                     src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+                  <a href="https://vanilla-extract.style/">
+                     <img src="https://img.shields.io/badge/Vanilla%20Extract%20CSS-F887AD?style=flat" />
+                  </a>
+                  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />
+                  <a href="https://newdocs.phaser.io/">
+                     <img src="https://img.shields.io/badge/Phaser%203-9C6394?style=flat" />
+                  </a>
+                  <img src="https://img.shields.io/badge/WebSocket-000000?style=flat" />
+               </li>
+            </ul>
          </li>
          <li>SSAFY 2학기 특화 프로젝트 우수팀(1등) 수상 🥇</li>
       </ul>
@@ -47,27 +63,40 @@
    <p>
       <div>💬 AI 텍스트 분석을 활용한 채팅 솔루션</div>
       <ul>
-         <li>기간 : 2024.04.08 ~ 2024.05.19 (6주)</li>
-         <li>인원 : 6명 (프론트엔드 2명, 백엔드 4명)</li>
-         <li>역할 : 기획 및 디자인, FrontEnd, DevOps</li>
-         <li>
-            FrontEnd<br>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-            <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white" />
-            <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />  
-            <a href="https://stomp-js.github.io">
-               <img src="https://img.shields.io/badge/STOMP.js-4e91a5?style=flat">
-            </a>
-         </li>
-         <li>
-            DevOps<br>
-            <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-            <img src="https://img.shields.io/badge/CodeDeploy-4053D6?style=flat&logo=amazonwebservices&logoColor=white" />
-            <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
-            <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+         <li>기간: 2024.04.08 ~ 2024.05.19 (6주)</li>
+         <li>인원: 6명 (프론트엔드 2명, 백엔드 4명)</li>
+         <li>역할:
+            <ul>
+               <li>
+                  기획 및 디자인<br>
+                  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black" />
+                  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+               </li>
+               <li>
+                  FrontEnd<br>
+                  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+                  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat" />
+                  <a href="https://stomp-js.github.io">
+                     <img src="https://img.shields.io/badge/STOMP.js-4e91a5?style=flat">
+                  </a>
+               </li>
+               <li>
+                  DevOps<br>
+                  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/CodeDeploy-4053D6?style=flat&logo=amazonwebservices&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+               </li>
+            </ul>
          </li>
       </ul>
    </p>
@@ -84,21 +113,29 @@
    <p>
       <div>☕️ 커피 단체 주문 공유 플랫폼</div>
       <ul>
-         <li>기간 : 2023.11.13 ~ 2023.11.24 (2주)</li>
-         <li>인원 : 2명 (프론트엔드 1명, 백엔드 1명)</li>
-         <li>역할 : 기획, FrontEnd, BackEnd</li>
-         <li>
-            FrontEnd<br>
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
-            <img src="https://img.shields.io/badge/Pinia-ffd859?style=flat" />
-         </li>
-         <li>
-            BackEnd<br>
-            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-            <img src="https://img.shields.io/badge/MyBatis-black?style=flat" />
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+         <li>기간: 2023.11.13 ~ 2023.11.24 (2주)</li>
+         <li>인원: 2명 (프론트엔드 1명, 백엔드 1명)</li>
+         <li>역할:
+            <ul>
+               <li>기획<br>
+                  <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white" />
+               </li>
+               <li>
+                  FrontEnd<br>
+                  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+                  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Pinia-ffd859?style=flat" />
+               </li>
+               <li>
+                  BackEnd<br>
+                  <img
+                     src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+                  <img src="https://img.shields.io/badge/MyBatis-black?style=flat" />
+                  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+               </li>
+            </ul>
          </li>
          <li>SSAFY 1학기 관통 프로젝트 최우수팀(1등) 수상 🥇</li>
       </ul>
@@ -115,14 +152,23 @@
    <p>
       <div>🤸 브레이킹 댄서들의 온라인 레파토리 수첩</div>
       <ul>
-         <li>기간 : 2024.01.08 ~ 2024.02.16 (6주)</li>
-         <li>인원 : 4명 (프론트엔드 2명, 백엔드 2명)</li>
-         <li>역할 : 기획 및 디자인, FrontEnd</li>
-         <li>
-            FrontEnd<br>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-            <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+         <li>기간: 2024.01.08 ~ 2024.02.16 (6주)</li>
+         <li>인원: 4명 (프론트엔드 2명, 백엔드 2명)</li>
+         <li>역할:
+            <ul>
+               <li>기획 및 디자인<br>
+                  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+               </li>
+               <li>
+                  FrontEnd<br>
+                  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+                  <img
+                     src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+                  <img
+                     src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+               </li>
+            </ul>
          </li>
       </ul>
    </p>
@@ -133,7 +179,7 @@
       <a href="https://github.com/nijesmik/CPP_Module">
          <img src="https://img.shields.io/badge/repository-gray?style=flat&logo=GitHub&logoColor=white">
       </a>
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
    </summary>
    <p>
       <ul>
@@ -156,7 +202,7 @@
    <p>
       <ul>
          <li>레이 트레이서(Ray Tracer)를 구현하여 컴퓨터 그래픽스의 기본 개념 이해</li>
-         <li>3D 공간에서 빛의 반사, 그림자 등의 효과를 계산하는 방법을 학습</li>
+         <li>3D 공간에서 빛의 반사, 그림자 등의 효과를 수학적으로 계산하는 방법 학습</li>
       </ul>
    </p>
 </details>
@@ -170,7 +216,7 @@
    </summary>
    <p>
       <ul>
-         <li>간단한 Unix Shell을 구현하여 프로세스 관리, 파이프, 리다이렉션 등의 시스템 프로그래밍 개념을 학습</li>
+         <li>간단한 Unix Shell을 구현하여 프로세스 관리, 파이프, 리다이렉션 등 시스템 프로그래밍 개념 실습</li>
          <li>컴파일러 이론에서 Parser 동작 방식에 대한 원리와 방식 이해</li>
       </ul>
    </p>
